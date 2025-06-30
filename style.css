@@ -21,10 +21,6 @@ html {
 body {
   height: 100vh;
   width: 100%;
-  background: #000;
-  overflow: hidden;
-  display: flex;
-  flex-wrap: wrap;
-  place-content: center;
+background-image: linear-gradient( 135deg, #EECE13 10%, #B210FF 100%);
 }
 
